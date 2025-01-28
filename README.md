@@ -1,0 +1,1 @@
+# chess-exercise-generator
