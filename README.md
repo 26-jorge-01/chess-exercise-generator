@@ -1,4 +1,4 @@
-# 🎯 Generador de Ejercicios de Ajedrez
+# ♟️ Generador de Ejercicios de Ajedrez
 ## 📌 Descripción
 El Generador de Ejercicios de Ajedrez es una herramienta diseñada para apoyar a profesores de ajedrez en la preparación de clases, permitiéndoles generar ejercicios basados en temas específicos y niveles de habilidad de sus estudiantes.
 
